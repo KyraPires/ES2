@@ -1,3 +1,7 @@
+Engenharia de Software - Aula 01 - Modelos de processo de software e atividades de software
+
+https://www.youtube.com/watch?v=kO1PSkzTsYc&feature=youtu
+
 0:00 – 3:30 - modelo de desenvolvimento de software, métodos ageis
 3:31 – 5:56 - documentação de softaware, atributos de um bom software, qualidade de software, funcionalidade, desempenho, manutenção, usabilidade
 5:57 – 6:19 - engenharia de software, especificação de software, desenvolvimento, validação e evolução de software
