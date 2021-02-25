@@ -1,0 +1,11 @@
+0:00 – 3:30 - modelo de desenvolvimento de software, métodos ageis
+3:31 – 5:56 - documentação de softaware, atributos de um bom software, qualidade de software, funcionalidade, desempenho, manutenção, usabilidade
+5:57 – 6:19 - engenharia de software, especificação de software, desenvolvimento, validação e evolução de software
+6:20 – 8:46 - velocidade no tempo de entrega, confiabilidade, custo, desenvolvimento e testes, melhores métodos em engenharia de software, criação da internet
+8:47 – 10:34 - processo de software, produção de software ou estensão, especificação, projeto, implementação, validação, evolução. 
+10:35 – 15:59 - modelos de processo de software: representação simplificada, representação frameworks, modelos cascata, incremental e orientada a reuso.
+15:60 – 17:04 -  especificação, desenvolvimento, validação e evolução.
+17:05 – 18:15 - requisitos da engenharia: estudo da viabilidade, elicitação e análise de requisitos, especificação, validação documentação
+18:16 – 19:44 - projetar baseado no q o cliente quer, arquitetura do sistema, especificação do banco de dados, interface e de componentes
+19:45 – 20:53 - estágio de testes, teste de componentes, sistemas e aceitação
+20:54 – 22:42 - evolução do sistema, avaliar o sistema e propor mudanças e correções de bugs.
